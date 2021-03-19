@@ -1,4 +1,4 @@
-# flutter_gmail_login
+# flutter Eemoji app.
 
 A new Flutter application.
 
